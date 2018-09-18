@@ -6,8 +6,8 @@ apply plugin: 'application'
 
 mainClassName = 'com.poc.kafka.App'
 
-targetCompatibility = 1.10
-sourceCompatibility = 1.10
+targetCompatibility = 1.12
+sourceCompatibility = 1.12
 
 repositories {
     jcenter()
