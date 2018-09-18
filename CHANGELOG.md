@@ -1,3 +1,6 @@
+## 0.1.1 (setembro 18, 2018)
+  - Version test
+
 ## 0.1.0 (setembro 18, 2018)
   - Merge branch 'poc' of https://github.com/matheusz/kafka-poc into poc
   - Change java version
